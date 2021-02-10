@@ -13,7 +13,7 @@
   &nbsp;<a href="https://www.hectordelangel.rocks">
     <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge" class="image" />
   </a>&nbsp;
- &nbsp; <a href="https://www.linkedin.com/in/hectordelangel">
+  <a href="https://www.linkedin.com/in/hectordelangel">
     <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="image" />
   </a>&nbsp;
   <a href="https://twitter.com/h3c70rdelan9el" target="_blank" />
