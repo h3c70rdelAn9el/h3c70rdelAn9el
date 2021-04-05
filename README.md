@@ -2,7 +2,7 @@
 
   Hello there, :wave: &nbsp; I'm Hector!
 
-  I'm an avid, community taught web developer, currently looking for projects while continuing my coding journey through learning, articles, and humans I encounter.
+  I'm an avid, community taught web developer, currently looking for projects while continuing my coding journey 🚀 through learning, articles, and humans I encounter.
 
   :seedling: Currently learning some Laravel and always more JS!<br>
   
@@ -39,5 +39,5 @@
 
   <img class="quotes" src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=fun&theme=dark" />
   ⚡ Fun fact:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note: In my previous life I was a guitarist and guitar teacher.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note: In my previous life (career) I was a musician and guitar teacher.<br>
 </div>
