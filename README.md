@@ -10,7 +10,7 @@
 
   ✋🏼 look ma! i'm on the interwebs! 🌏 <br>
 
-  &nbsp;<a href="https://www.hectordelangel.rocks">
+  &nbsp;<a href="https://www.hectordelangel.com">
     <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge" class="image" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/hectordelangel">
