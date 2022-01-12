@@ -6,8 +6,6 @@
 
   :seedling: Currently learning some Laravel and always more JS!<br>
   
-  🤔 *Looking for help*: I'm looking for assistance with trying to find my first web developing job in this awesome job climate!<br>
-
   ✋🏼 look ma! i'm on the interwebs! 🌏 <br>
 
   &nbsp;<a href="https://www.hectordelangel.com">
@@ -38,6 +36,4 @@
   <img class="image languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3c70rdelan9el&theme=blue-green" /><br>
 
   <img class="quotes" src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=fun&theme=dark" />
-  ⚡ Fun fact:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note: In my previous life (career) I was a musician and guitar teacher.<br>
 </div>
