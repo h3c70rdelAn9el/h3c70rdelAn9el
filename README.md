@@ -22,6 +22,7 @@
 
   
   &nbsp;  <img class="image" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+    <img class="image" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />&nbsp;
     <img class="image" src="https://img.shields.io/badge/-Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;
     <img class="image" src="https://img.shields.io/badge/nuxt-00c58e?&style=for-the-badge&logo=nuxt.js&logoColor=000000" />&nbsp;
     <img class="image" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;
