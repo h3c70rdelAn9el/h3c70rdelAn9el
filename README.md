@@ -19,6 +19,7 @@
   </a>&nbsp;
 
   💼 Skills:
+    <img class="image" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 
   
   &nbsp; 
