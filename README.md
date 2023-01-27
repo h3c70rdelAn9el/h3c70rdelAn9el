@@ -36,5 +36,4 @@
   <br>
   <img class="image languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3c70rdelan9el&theme=blue-green" /><br>
 
-  <img class="quotes" src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=fun&theme=dark" />
 </div>
